@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="66910" started-at="2020-04-12T19:32:36 IST" finished-at="2020-04-12T19:33:43 IST">
+    <groups>
+    </groups>
+    <test name="ChromeTest" duration-ms="66910" started-at="2020-04-12T19:32:36 IST" finished-at="2020-04-12T19:33:43 IST">
+      <class name="test.LoginTest">
+        <test-method status="PASS" signature="intialization(java.lang.String)[pri:0, instance:test.LoginTest@1794d431]" name="intialization" is-config="true" duration-ms="6458" started-at="2020-04-12T19:32:36 IST" finished-at="2020-04-12T19:32:43 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialization -->
+        <test-method status="PASS" signature="urllaunch()[pri:0, instance:test.LoginTest@1794d431]" name="urllaunch" is-config="true" duration-ms="12570" started-at="2020-04-12T19:32:43 IST" finished-at="2020-04-12T19:32:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urllaunch -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:test.LoginTest@1794d431]" name="setup" is-config="true" duration-ms="5051" started-at="2020-04-12T19:32:58 IST" finished-at="2020-04-12T19:33:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="HomeTest()[pri:0, instance:test.LoginTest@1794d431]" name="HomeTest" duration-ms="36402" started-at="2020-04-12T19:33:03 IST" finished-at="2020-04-12T19:33:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomeTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:test.LoginTest@1794d431]" name="teardown" is-config="true" duration-ms="1392" started-at="2020-04-12T19:33:42 IST" finished-at="2020-04-12T19:33:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- test.LoginTest -->
+    </test> <!-- ChromeTest -->
+  </suite> <!-- Suite -->
+</testng-results>

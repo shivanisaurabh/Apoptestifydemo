@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/IEDriverServer_Win32_3.141.0.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/geckodriver-v0.26.0-win32.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/chromedriver_win32.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/edgedriver_win64.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/rest-assured-4.3.0-dist.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/rest-assured-4.3.0-dist/rest-assured-4.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/rest-assured-4.3.0-dist/rest-assured-4.3.0-deps/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/rest-assured-4.3.0-dist/rest-assured-4.3.0-deps/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/rest-assured-4.3.0-dist/rest-assured-4.3.0-deps/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/rest-assured-4.3.0-dist/rest-assured-4.3.0-deps/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/rest-assured-4.3.0-dist/rest-assured-4.3.0-deps/groovy-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/rest-assured-4.3.0-dist/rest-assured-4.3.0-deps/groovy-json-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/rest-assured-4.3.0-dist/rest-assured-4.3.0-deps/groovy-xml-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/rest-assured-4.3.0-dist/rest-assured-4.3.0-deps/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/rest-assured-4.3.0-dist/rest-assured-4.3.0-deps/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/rest-assured-4.3.0-dist/rest-assured-4.3.0-deps/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/rest-assured-4.3.0-dist/rest-assured-4.3.0-deps/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/rest-assured-4.3.0-dist/rest-assured-4.3.0-deps/jakarta.activation-api-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/rest-assured-4.3.0-dist/rest-assured-4.3.0-deps/jakarta.xml.bind-api-2.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/rest-assured-4.3.0-dist/rest-assured-4.3.0-deps/jaxb-osgi-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/rest-assured-4.3.0-dist/rest-assured-4.3.0-deps/org.apache.sling.javax.activation-0.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/rest-assured-4.3.0-dist/rest-assured-4.3.0-deps/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/rest-assured-4.3.0-dist/docs/json-path-4.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/rest-assured-4.3.0-dist/docs/json-path-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/rest-assured-4.3.0-dist/docs/rest-assured-4.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/rest-assured-4.3.0-dist/docs/rest-assured-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/rest-assured-4.3.0-dist/docs/rest-assured-common-4.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/rest-assured-4.3.0-dist/docs/rest-assured-common-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/rest-assured-4.3.0-dist/docs/xml-path-4.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/rest-assured-4.3.0-dist/docs/xml-path-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/JAR folder/New folder/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/JAR folder/New folder/ant-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/JAR folder/New folder/ant-launcher-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/JAR folder/New folder/apache-ant-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/JAR folder/New folder/bsh-2.0b5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/JAR folder/New folder/bson-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/JAR folder/New folder/commons-codec-1.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/JAR folder/New folder/commons-codec-1.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/JAR folder/New folder/commons-collections4-4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/JAR folder/New folder/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/JAR folder/New folder/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/JAR folder/New folder/commons-compress-1.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/JAR folder/New folder/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/JAR folder/New folder/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/JAR folder/New folder/curvesapi-1.06.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/JAR folder/New folder/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/JAR folder/New folder/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/JAR folder/New folder/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/JAR folder/New folder/jaxb-core-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/JAR folder/New folder/jaxb-impl-2.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/JAR folder/New folder/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/JAR folder/New folder/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/JAR folder/New folder/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/JAR folder/New folder/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/JAR folder/New folder/mongodb-driver-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/JAR folder/New folder/mongodb-driver-core-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/JAR folder/New folder/poi-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/JAR folder/New folder/poi-4.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/JAR folder/New folder/poi-examples-4.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/JAR folder/New folder/poi-excelant-4.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/JAR folder/New folder/poi-ooxml-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/JAR folder/New folder/poi-ooxml-4.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/JAR folder/New folder/poi-ooxml-schemas-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/JAR folder/New folder/poi-ooxml-schemas-4.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/JAR folder/New folder/poi-scratchpad-4.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivani/Downloads/JAR folder/New folder/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
